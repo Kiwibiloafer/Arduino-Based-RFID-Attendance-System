@@ -4,8 +4,9 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "jamaludin";
-const char* password = "pecelayam";
+//change to your ssid and password
+const char* ssid = ""; 
+const char* password = "";
 
 const char* host = "192.168.121.55";
 
